@@ -40,6 +40,11 @@ public class mSingle {
 		return (isMine_==1);
 	}
 	
+	// change the value of mSingle
+	void changeValue(){
+	
+	}
+	
 	// display the button in GUI
 	void display(){
 		
